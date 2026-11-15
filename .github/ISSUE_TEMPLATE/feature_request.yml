@@ -1,0 +1,15 @@
+name: Feature request or API change
+description: A new feature, or a change on the URSSAF side (new swagger or documentation version)
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Need
+      description: What you want to do, and why the package does not allow it today. For an URSSAF API change, link the official document and its version.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal (optional)
