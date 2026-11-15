@@ -5,7 +5,8 @@ Open-source software built and maintained by [The Bearded Bear](https://the-bear
 ## URSSAF PHP SDKs
 
 One package per URSSAF API, with the same architecture, quality gate and conventions: framework-agnostic PSR client
-and domain model, optional Symfony bundle and Doctrine integration.
+and domain model, optional Symfony bundle and Doctrine integration. Overview, status and integration offer:
+[the-bearded-bear.com/open-source/urssaf](https://the-bearded-bear.com/open-source/urssaf).
 
 | API | Package | Status |
 |---|---|---|
@@ -35,4 +36,4 @@ These packages are unofficial: they are not developed, endorsed or supported by 
 The Bearded Bear helps software vendors and platforms with their URSSAF integrations: habilitation and homologation,
 integration of the packages, support with a guaranteed response time, custom developments.
 
-Contact: [the-bearded-bear.com](https://the-bearded-bear.com).
+Contact: [the-bearded-bear.com/open-source/urssaf](https://the-bearded-bear.com/open-source/urssaf).
