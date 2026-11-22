@@ -27,7 +27,7 @@ These packages are unofficial: they are not developed, endorsed or supported by 
 
 ## Other open-source projects
 
-- [claude-craft](https://github.com/TheBeardedBearSAS/claude-craft) ([documentation](https://thebeardedbearsas.github.io/claude-craft/)):
+- [bear-craft](https://github.com/TheBeardedBearSAS/bear-craft) ([documentation](https://thebeardedbearsas.github.io/bear-craft/)):
   a framework for AI-assisted development with Claude Code, with standardized rules, agents and commands for multiple
   technology stacks.
 
